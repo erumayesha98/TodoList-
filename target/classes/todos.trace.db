@@ -1,0 +1,72 @@
+2024-04-08 07:23:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 07:36:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from todoList [42104-214]
+2024-04-08 08:10:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 08:21:29 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from todolist [42104-214]
+2024-04-08 08:22:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 08:49:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 08:49:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST where id = ? [42104-214]
+2024-04-08 08:49:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 08:49:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 08:49:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 09:38:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 09:57:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 10:12:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 10:12:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-08 10:12:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST where id=? [42104-214]
+2024-04-10 06:17:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-10 06:54:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-10 11:19:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-12 06:14:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-12 06:14:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-12 06:14:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-12 06:19:54 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
+2024-04-12 06:20:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from todolist [42104-214]
+2024-04-12 06:20:18 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select * from TODOLIST [42104-214]
